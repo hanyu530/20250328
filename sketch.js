@@ -15,7 +15,7 @@ function setup() { // 初始值設定
 
   // 創建 iframe，放在畫布後面
   let iframe = createElement('iframe');
-  iframe.attribute('src', 'https://www.et.tku.edu.tw/');
+  iframe.attribute('src', 'https://www.myounger.com.tw/about/');
   iframe.style('position', 'absolute');
   iframe.style('width', '100%');
   iframe.style('height', '100%');
